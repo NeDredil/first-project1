@@ -20,7 +20,7 @@
 
 ''' java
 
-public stasic main(args []){
+public static main(args []){
 }
 '''
 
