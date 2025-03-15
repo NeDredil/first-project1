@@ -18,11 +18,11 @@
 - строка
 - [GitHub](https://github.com/NeDredil "NeDrediL")
 
-''' java
+``` java
 
 public static main(args []){
 }
-'''
+```
 
 ```html
 <h1>А я просто текст</h1>
